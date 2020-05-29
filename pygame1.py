@@ -41,7 +41,7 @@ while True:
     screen.fill(WHITE)
     ####----zona de dibujo
     #forloop (100 es donde voy a iniciar en pixeles 700 a donde quiero ir y los ultimos 100 el numero de cada incremento 100 en 100)
-    pygame.draw.rect(screen, RED, (cord_x, cord_y, 80, 80))
+    #pygame.draw.rect(screen, RED, (cord_x, cord_y, 80, 80))
 
     ####-----zona de dibujo
     #metodo para actualizar pantalla
